@@ -56,26 +56,12 @@ Linux Specific
 Driver Contact Information
 --------------------------
 
-Some of the issue you may be experiencing are due to the various video drivers.  Here is an incomplete list of places that you might be able to file bugs or get additional help:
+Some of the issue you may be experiencing are due to the various video drivers. Here is an incomplete list of places that you might be able to file bugs or get additional help. If you know of any other places, please let us know.
 
-### AMD / Intel Open Source driver
+### Mesa (AMD / Intel / NVIDIA Nouveau)
 
-For discussions, there is the mesa-users email list:
+For discussions, there is the [mesa-users email list](https://mesa3d.org/lists.html). Bugs and feature requests should be logged in the [GitLab issue tracker](https://gitlab.freedesktop.org/mesa/mesa/-/issues).
 
-- https://docs.mesa3d.org/lists.html
+### NVIDIA Proprietary Drivers
 
-Bugs and feature requests should be logged in bugzilla:
-
-- https://docs.mesa3d.org/bugs.html
-
-### NVIDIA
-
-NVIDIA supported drivers:
-
-- https://forums.developer.nvidia.com/c/gpu-graphics/linux/148
-
-Open Source NVIDIA driver (nouveau):
-
-- https://nouveau.freedesktop.org/
-
-If you know of any other places, please let us know.
+For disussions, there is the official [NVIDIA Graphics on Linux forum](https://forums.developer.nvidia.com/c/gpu-graphics/linux/148).
